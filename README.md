@@ -8,6 +8,8 @@
 
 | Landmarks | Name | Rating | Menu name | Price | Menu rating |
 | --- | --- | --- | --- | --- | --- |
+| 공덕역 | 채움 | Good | 채움정식 | 15,000원 | Good |
+| 국회의사당역, 국회의사당 | 순남시래기 여의도점 | Good | 쑥떡떡갈비정식 | 10,000원 | Good |
 | 그린팩토리, 미금역, 정자역 | 꼼앤쮸 | Very good | 꼼앤쮸 | 27,000원 | Very good |
 | | | | 꼼장어구이 | 13,000원 | Very good |
 | | | | 볶음밥 | 2,000원 | Good |
