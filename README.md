@@ -1,10 +1,10 @@
 # restaurants
 ## Ratings
-* Excellent: I wanna go there.
-* Very good: I'm willing to go there.
-* Good: I may go there.
-* So so: I don't wanna go there.
-* Bad: I won't go there.
+* Excellent: I wanna go there or eat it.
+* Very good: I'm willing to go there or eat it.
+* Good: I may go there or eat it.
+* So so: I don't wanna go there or eat it.
+* Bad: I won't go there or eat it.
 
 | Landmarks | Name | Rating | Menu name | Price | Menu rating |
 | --- | --- | --- | --- | --- | --- |
@@ -34,6 +34,9 @@
 | 어린이대공원, 어린이대공원역 | 빕스 어린이대공원점 | Very good | 주말 샐러드바 | 29,700원 | Very good |
 | 오리역 | 갈비포차 본사직영점 | Good | 숯불 닭갈비 | 8,800원 | Good |
 | 오리역 | 아찌 | Very good | 생등심 돈까스 | 8,000원 | Very good |
+| 왕십리역 | 매란방 | Good | 꽃게 한 마리 짬뽕 | 8,000원 | Good |
+| | | | 연꽃 하가우 | 4,000원 | So so |
+| | | | 차돌 짜장면 곱빼기 | 9,000원 | Good |
 | 롯데백화점잠실점, 잠실역 | 아머마켓 롯데백화점잠실점 | Very good | 만찬세트 | 24,000원 | Good |
-| | | | 활랍스터 500g | 30,000원 | Very good |
+| | | | 갈릭버터구이 500g | 32,000원 | Very good |
 | 정자역 | 정통춘천닭갈비 | Excellent | 정통닭갈비 | 11,000원 | Excellent |
