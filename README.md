@@ -39,6 +39,7 @@
 | 미금역 | 찌마기 | Very good | 조개찜 | 59,000원 | Very good |
 | 미금역 | 차가네청한우 | Very good | 한우등심 | 43,000원 | Very good |
 | | | | 한우 육회 | 28,000원 | Good |
+| 성수역 | 소문난감자탕 | Very good | 감자탕 소 | 23,000원 | Very good |
 | 어린이대공원, 어린이대공원역 | 빕스 어린이대공원점 | Very good | 주말 샐러드바 | 29,700원 | Very good |
 | 오리역 | 갈비포차 본사직영점 | Good | 숯불 닭갈비 | 8,800원 | Good |
 | 오리역 | 아찌 | Very good | 생등심 돈까스 | 8,000원 | Very good |
