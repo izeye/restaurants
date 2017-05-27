@@ -9,6 +9,10 @@
 | Landmarks | Name | Rating | Menu name | Price | Menu rating |
 | --- | --- | --- | --- | --- | --- |
 | 공덕역 | 채움 | Good | 채움정식 | 15,000원 | Good |
+| 국립민속박물관, 안국역 | 황생가칼국수 | Very good | 사골칼국수 | 9,000원 | Very good |
+| | | | 왕만두 | 9,000원 | Very good |
+| | | | 칼국수사리 | 3,000원 | Very good |
+| | | | 콩국수 | 11,000원 | Very good |
 | 국회의사당역, 국회의사당 | 순남시래기 여의도점 | Good | 쑥떡떡갈비정식 | 10,000원 | Good |
 | 군자역 | 본죽 군자역점 | Good | 단호박죽 | 8,000원 | Good |
 | | | | 봄냉이바지락죽 | 8,000원 | Good |
