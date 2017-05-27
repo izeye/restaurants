@@ -47,6 +47,10 @@
 | 미금역 | 찌마기 | Very good | 조개찜 | 59,000원 | Very good |
 | 미금역 | 차가네청한우 | Very good | 한우등심 | 43,000원 | Very good |
 | | | | 한우 육회 | 28,000원 | Good |
+| 서울역 | 토끼정 KTX서울역사 | Very good | 복숭아 사와 | 6,000원 | Very good |
+| | | | 스보로 토끼밥 | 3,000원 | Very good |
+| | | | 코크 하이볼 | 5,200원 | Very good |
+| | | | 토끼정 잔치상 | 18,000원 | Very good |
 | 성수역 | 소문난감자탕 | Very good | 감자탕 소 | 23,000원 | Very good |
 | 안국역, 인사동 | 오설록티하우스 인사동점 | Very good | 그린티롤케익 (화이트) 조각 | 5,500원 | Very good |
 | | | | 그린티빙수 | 10,500원 | Very good |
