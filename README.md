@@ -8,6 +8,7 @@
 
 | Landmarks | Name | Rating | Menu name | Price | Menu rating |
 | --- | --- | --- | --- | --- | --- |
+| 고속터미널역 | 탐앤탐스 고속터미널역점 | Good | 블루베리주스 | 7,500원 | Good |
 | 공덕역 | 채움 | Good | 채움정식 | 15,000원 | Good |
 | 국립민속박물관, 안국역 | 황생가칼국수 | Very good | 사골칼국수 | 9,000원 | Very good |
 | | | | 왕만두 | 9,000원 | Very good |
