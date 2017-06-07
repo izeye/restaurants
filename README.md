@@ -8,6 +8,7 @@
 
 | Landmarks | Name | Rating | Menu name | Price | Menu rating |
 | --- | --- | --- | --- | --- | --- |
+| 고속터미널역 | 밀크바 | Good | 아보카도&바나나 | 7,200원 | So so |
 | 고속터미널역 | 탐앤탐스 고속터미널역점 | Good | 블루베리주스 | 7,500원 | Good |
 | 공덕역 | 채움 | Good | 채움정식 | 15,000원 | Good |
 | 구반포역, 신반포역 | 애플하우스 | Very good | 공기밥 | 1,500원 | Very good |
