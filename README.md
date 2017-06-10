@@ -39,6 +39,10 @@
 | | | | 화이트 에일 (밀맥주) | 6,500원 | Good |
 | 그린팩토리, 미금역, 정자역 | 이화수전통육개장 분당정자점 | Very good | 차돌박이 육개장 | 9,000원 | Very good |
 | 그린팩토리, 미금역, 정자역 | 짠지와계란말이김밥 | Good | 속풀이 김치 콩나물 국밥 | 5,000원 | Good |
+| 그린팩토리, 정자역 | Gramps Ground | Very good | 구스아일랜드 (GOOSEISLAND) | 9,000원 | Very good |
+| | | | 그램스 치킨 & 새우 프라이 콤보버켓 (SHRIMP & CHICKEN COMBO BUCKET) | 24,000원 | Very good |
+| | | | 명란크림우동 (CREAMY SALTED POLLACK ROE UDON) | 16,000원 | Very good |
+| | | | 연어가 올라간 켈리포니아롤 (CALIFORNIA ROLL) | 14,000원 | Very good |
 | 그린팩토리, 정자역 | 경남회관 | Excellent | 포항식물회 | 12,000원 | Excellent |
 | 그린팩토리, 정자역 | 미스터시래기 분당정자점 | Very good | 시래기매운불고기 | 13,600원 | Very good |
 | 그린팩토리, 정자역 | 미트앤번 버거샵 | Good | 베이컨 치즈 버거 | 7,500원 | Good |
