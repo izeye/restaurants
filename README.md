@@ -72,6 +72,8 @@
 | 미금역 | 찌마기 | Very good | 조개찜 | 59,000원 | Very good |
 | 미금역 | 차가네청한우 | Very good | 한우등심 | 43,000원 | Very good |
 | | | | 한우 육회 | 28,000원 | Good |
+| 서울숲공원, 서울숲역 | 리빈 | Very good | 우유아이스크림 | 3,500원 | Very good |
+| | | | 초코칩 쿠키 | 1,500원 | Very good |
 | 서울역 | 토끼정 KTX서울역사 | Very good | 복숭아 사와 | 6,000원 | Very good |
 | | | | 스보로 토끼밥 | 3,000원 | Very good |
 | | | | 코크 하이볼 | 5,200원 | Very good |
