@@ -76,6 +76,7 @@
 | 미금역 | 찌마기 | Very good | 조개찜 | 59,000원 | Very good |
 | 미금역 | 차가네청한우 | Very good | 한우등심 | 43,000원 | Very good |
 | | | | 한우 육회 | 28,000원 | Good |
+| 삼성역, 코엑스 | 폴리스 파르나스몰점 | Bad | BRICK OVEN PIZZAS/NEW YORK CLASSICS/BBQ CHICKEN 13" | 24,000원 | Bad |
 | 서울숲공원, 서울숲역 | 리빈 | Very good | 우유아이스크림 | 3,500원 | Very good |
 | | | | 초코칩 쿠키 | 1,500원 | Very good |
 | 서울숲공원, 서울숲역 | 스쿨푸드 갤러리아포레점 | Good | 길거리표 떡볶이 | 5,500원 | Good |
