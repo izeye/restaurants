@@ -95,6 +95,8 @@
 | 미금역 | 찌마기 | Very good | 조개찜 | 59,000원 | Very good |
 | 미금역 | 차가네청한우 | Very good | 한우등심 | 43,000원 | Very good |
 | | | | 한우 육회 | 28,000원 | Good |
+| 미금역 | 콩두 미금점 | Very good | 청국장비빔밥 | 7,000원 | Very good |
+| | | | 콩비지비빔밥 | 6,000원 | Very good |
 | 삼성역, 코엑스 | 폴리스 파르나스몰점 | Bad | BRICK OVEN PIZZAS/NEW YORK CLASSICS/BBQ CHICKEN 13" | 24,000원 | Bad |
 | 서울숲공원, 서울숲역 | Wei | Good | Wei 자장면 | 7,000원 | Good |
 | | | | Wei 빨간짬뽕 | 8,000원 | Good |
