@@ -154,6 +154,8 @@
 | | | | 세트메뉴 | 3,000원 | Good |
 | | | | 소불고기 달걀덮밥 | 8,500원 | Good |
 | 익산시 어양동 | 가람 | Very good | 돼지양념갈비 | 13,000원 | Very good |
+| 전북 부안군 변산면 | 모항전망대 | Good | 물회 | 20,000원 | Good |
+| | | | 바지락칼국수 | 7,000원 | Good |
 | 정자역 | [정통춘천닭갈비](https://m.store.naver.com/restaurants/detail?id=19882096&query=정통춘천닭갈비) | Excellent | 정통닭갈비 | 11,000원 | Excellent |
 | 정자역 | 홍차이나 | Very good | 굴짬뽕 | 8,000원 | Very good |
 | 춘천시 동면 | 산토리니 카페 레스토랑 | Very good | 생과일주스 토마토 | 6,500원 | Very good |
