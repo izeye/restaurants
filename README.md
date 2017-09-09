@@ -121,6 +121,7 @@
 | | | | 콩비지비빔밥 | 6,000원 | Very good |
 | 비발디파크, 오션월드 | 더로딘 | Very good | 버섯메밀 손만두 전골 | 18,000원 | Very good |
 | | | | 조식 | 성인 29,000원, 소인 20,000원 | Very good |
+| 비발디파크, 오션월드 | 대명비발디파크정상휴게소스카이라운지 - 카페아모제 | Bad | 초코브라우니빙수 | 13,000원 | Bad |
 | 삼성역, 코엑스 | 폴리스 파르나스몰점 | Bad | BRICK OVEN PIZZAS/NEW YORK CLASSICS/BBQ CHICKEN 13" | 24,000원 | Bad |
 | 서울숲공원, 서울숲역 | Wei | Good | Wei 자장면 | 7,000원 | Good |
 | | | | Wei 빨간짬뽕 | 8,000원 | Good |
