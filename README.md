@@ -119,6 +119,8 @@
 | | | | 한우 육회 | 28,000원 | Good |
 | 미금역 | 콩두 미금점 | Very good | 청국장비빔밥 | 7,000원 | Very good |
 | | | | 콩비지비빔밥 | 6,000원 | Very good |
+| 비발디파크, 오션월드 | 더로딘 | Very good | 버섯메밀 손만두 전골 | 18,000원 | Very good |
+| | | | 콩비지비빔밥 | 성인 29,000원, 소인 20,000원 | Very good |
 | 삼성역, 코엑스 | 폴리스 파르나스몰점 | Bad | BRICK OVEN PIZZAS/NEW YORK CLASSICS/BBQ CHICKEN 13" | 24,000원 | Bad |
 | 서울숲공원, 서울숲역 | Wei | Good | Wei 자장면 | 7,000원 | Good |
 | | | | Wei 빨간짬뽕 | 8,000원 | Good |
