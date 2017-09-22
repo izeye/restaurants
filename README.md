@@ -79,6 +79,7 @@
 | 그린팩토리, 정자역 | 커피부케 | Very good | 수박 주스 | 5,000원 | Very good |
 | | | | 청포도쥬스 | 5,000원 | Very good |
 | 그린팩토리, 정자역 | 쿡스맘 | Good | 일본식 돈카츠 | 11,000원 | Good |
+| 그린팩토리, 정자역 | 키와미 | Very good | 라멘세트 | 10,000원 | Very good |
 | 그린팩토리, 정자역 | 테이블콩 | Very good | 오미자 (문경) | 6,000원 | Very good |
 | 그린팩토리, 정자역 | 푸른참치 | Very good | 스페셜참치 | 55,000원 | Very good |
 | 그린팩토리, 정자역 | 하나후쿠 | Very good | 오로시소바 | 8,000원 | Very good |
