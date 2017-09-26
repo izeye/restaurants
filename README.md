@@ -202,6 +202,7 @@
 | 정자역 | [정통춘천닭갈비](https://m.store.naver.com/restaurants/detail?id=19882096&query=정통춘천닭갈비) | Excellent | 정통닭갈비 | 11,000원 | Excellent |
 | 정자역 | 청담삼계탕 | Very good | 닭도리탕 | 35,000원 | Very good |
 | | | | 볶음밥 | 2,000원 | Very good |
+| 정자역 | 투썸플레이스 분당정자역점 | Very good | 딸기레어치즈케이크빙수 | 12,000원 | Very good |
 | 정자역 | 홍차이나 | Very good | 굴짬뽕 | 8,000원 | Very good |
 | 춘천시 동면 | 산토리니 카페 레스토랑 | Very good | 생과일주스 토마토 | 6,500원 | Very good |
 | 춘천시 신북읍 | 토담숯불닭갈비 | Very good | 간장 닭갈비 | 12,000원 | Very good |
