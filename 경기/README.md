@@ -1,0 +1,101 @@
+# 경기
+
+| Landmarks | Name | Rating | Menu name | Price | Menu rating |
+| --- | --- | --- | --- | --- | --- |
+| 그린팩토리, 미금역 | 그레텔의부뚜막 | Excellent | 새우와 아스파라거스 아라비아따 | 13,500원 | Excellent |
+| | | | 알리에 올리오 | 12,000원 | Excellent |
+| 그린팩토리, 미금역 | 단정한 요리 | Very good | 냉모밀 | 7,000원 | Very good |
+| | | | 눈꽃치즈 돈까스 | 9,000원 | Very good |
+| | | | 돈까스 | 8,000원 | Very good |
+| 그린팩토리, 미금역 | 리마카롱 | Very good | 마카롱 2개 + 아메리카노 | 6,000원 | Very good |
+| 그린팩토리, 미금역 | 모노치즈 분당미금점 | Very good | 스트로베리 치즈케이크 쉐이크 | 4,700원 | Very good |
+| 그린팩토리, 미금역 | 분홍소풍 | Good | 소고기덮밥 | 8,000원 | Very good |
+| 그린팩토리, 미금역 | 스토브온 | Very good | 더블치즈 | 7,000원 | Very good |
+| | | | 레드볼치즈 | 14,000원 | Very good |
+| | | | 블루베리치즈 | 9,000원 | Very good |
+| | | | 알브레도빈 | 14,000원 | Very good |
+| 그린팩토리, 미금역 | 장비빔국수와 편육 | Very good | 장비빔국수 | 6,000원 | Very good |
+| 그린팩토리, 미금역, 정자역 | 꼼앤쮸 | Very good | 꼼앤쮸 | 27,000원 | Very good |
+| | | | 꼼장어구이 | 13,000원 | Very good |
+| | | | 볶음밥 | 2,000원 | Good |
+| | | | 시원이국수 | 3,000원 | Good |
+| | | | 주먹밥 | 2,000원 | Good |
+| | | | 쭈꾸미구이 | 15,000원 | Very good |
+| 그린팩토리, 미금역, 정자역 | 비스트로정 | Excellent | Lunch course - 미국산 채끝등심 | 36,000원 | Excellent |
+| 그린팩토리, 미금역, 정자역 | 생활맥주 분당정자점 | Good | 대동강 페일 에일 | 7,500원 | Good |
+| | | | 백화점 육포 | 11,000원 | Good |
+| | | | 앵그리 버드 | 16,000원 | Good |
+| | | | 화이트 에일 (밀맥주) | 6,500원 | Good |
+| 그린팩토리, 미금역, 정자역 | 이화수전통육개장 분당정자점 | Very good | 차돌박이 육개장 | 9,000원 | Very good |
+| 그린팩토리, 미금역, 정자역 | 짠지와계란말이김밥 | Good | 속풀이 김치 콩나물 국밥 | 5,000원 | Good |
+| 그린팩토리, 정자역 | Gramps Ground | Very good | 구스아일랜드 (GOOSEISLAND) | 9,000원 | Very good |
+| | | | 그램스 치킨 & 새우 프라이 콤보버켓 (SHRIMP & CHICKEN COMBO BUCKET) | 24,000원 | Very good |
+| | | | 명란크림우동 (CREAMY SALTED POLLACK ROE UDON) | 16,000원 | Very good |
+| | | | 연어가 올라간 켈리포니아롤 (CALIFORNIA ROLL) | 14,000원 | Very good |
+| 그린팩토리, 정자역 | 경남회관 | Excellent | 포항식물회 | 12,000원 | Excellent |
+| 그린팩토리, 정자역 | 깐부치킨 분당정자점 | So so | 마늘전기구이 | 16,000원 | So so |
+| | | | 순살파닭 | 18,000원 | So so |
+| | | | 스파이시포테이토 | 11,000원 | So so |
+| | | | 후라이드치킨 양념 | 18,000원 | So so |
+| 그린팩토리, 정자역 | 나빌리오 | Very good | 맥스 | 4,000원 | Very good |
+| | | | 이탈리안 화덕피자 메뉴 - 4가지 모듬 치즈 | 20,000원 | Very good |
+| | | | 이탈리안 화덕피자 메뉴 - 마르게리따 | 20,000원 | Very good |
+| 그린팩토리, 정자역 | 미스터시래기 분당정자점 | Very good | 시래기매운불고기 | 13,600원 | Very good |
+| 그린팩토리, 정자역 | 미트앤번 버거샵 | Good | 베이컨 치즈 버거 | 7,500원 | Good |
+| | | | 산 미구엘 생맥주 300ml | 4,500원 | Good |
+| 그린팩토리, 정자역 | 서울24시감자탕 | Very good | 뼈해장국 | 7,000원 | Very good |
+| 그린팩토리, 정자역 | 신마포갈매기 정자점 | Very good | 한국산 통갈매기 정식 | 12,900원 | Very good |
+| 그린팩토리, 정자역 | 영심이떡볶이 정자엠코헤리츠점 | Very good | 갈비만두 | 3,500원 | Very good |
+| | | | 돈까스 | 6,000원 | Good |
+| | | | 범벅이 (떡+튀) | 6,500원 | Very good |
+| | | | 순대 | 3,500원 | Very good |
+| | | | 참치 김밥 | 3,500원 | Very good |
+| 그린팩토리, 정자역 | 이화우나주곰탕 | So so | 나주곰탕 | 8,000원 | So so |
+| 그린팩토리, 정자역 | 장지리해장국 | Very good | 선지해장국 | 8,000원 | Very good |
+| 그린팩토리, 정자역 | 청년다방 분당정자점 | Very good | 깻잎순대 떡볶이 소 | 13,000원 | Very good |
+| | | | 날치알볶음밥 | 2,000원 | Very good |
+| | | | 차돌 떡볶이 대 | 17,000원 | Very good |
+| 그린팩토리, 정자역 | 카페 담 | Good | 아메리카노 | 3,800원 | Good |
+| 그린팩토리, 정자역 | 커피부케 | Very good | 수박 주스 | 5,000원 | Very good |
+| | | | 청포도쥬스 | 5,000원 | Very good |
+| 그린팩토리, 정자역 | 쿡스맘 | Good | 일본식 돈카츠 | 11,000원 | Good |
+| 그린팩토리, 정자역 | 키와미 | Very good | 라멘세트 | 10,000원 | Very good |
+| 그린팩토리, 정자역 | 테이블콩 | Very good | 오미자 (문경) | 6,000원 | Very good |
+| 그린팩토리, 정자역 | 포시애틀 | Very good | 홍두깨, 양지, 힘줄 | 11,000원 | Very good |
+| 그린팩토리, 정자역 | 푸른참치 | Very good | 스페셜참치 | 55,000원 | Very good |
+| 그린팩토리, 정자역 | 하나후쿠 | Very good | 오로시소바 | 8,000원 | Very good |
+| 그린팩토리, 정자역 | 하남돼지집 분당정자점 | Very good | 날치알 계란찜 | 5,000원 | Good |
+| | | | 돼지고기 김치찌개 | 6,000원 | Good |
+| | | | 생삼겹살 | 13,000원 | Good |
+| | | | 특목살 | 13,000원 | Very good |
+| 미금역 | 가보래국수 | So so | 비빔국수 | 6,000원 | So so |
+| 미금역 | 밀숲 미금점 | Good | 황태비빔국수 | 5,000원 | Good |
+| 미금역 | 전주콩나루콩나물국밥미금점 | Very good | 전씨콩나물국밥 | 6,000원 | Very good |
+| 미금역 | 조춘식 동갑이네 미금점 | Good | 동태탕 | 7,000원 | Good |
+| | | | 새우만두 | 5,000원 | Good |
+| 미금역 | 찌마기 | Very good | 조개찜 | 59,000원 | Very good |
+| 미금역 | 차가네청한우 | Very good | 한우등심 | 43,000원 | Very good |
+| | | | 한우 육회 | 28,000원 | Good |
+| 미금역 | 콩두 미금점 | Very good | 청국장비빔밥 | 7,000원 | Very good |
+| | | | 콩비지비빔밥 | 6,000원 | Very good |
+| 서현역 | 마당쇠곱창 | Excellent | 곱창모듬 | 18,000원 | Excellent |
+| 서현역 | 만강홍 | Good | 깐풍기 (중) | 30,000원 | So so |
+| | | | 삼선짬뽕 | 8,000원 | Very good |
+| | | | 작은 새우 (중) | 40,000원 | Good |
+| | | | 탕수육 (중) | 27,000원 | So so |
+| 서현역 | 박은자맛사랑 | So so | 오리진흙구이 | 65,000원 | So so |
+| | | | 해물찜 | 62,000원 | Bad |
+| 서현역 | 브레드 팩토리 망캄 3호점 | Very good | 생과일 주스 - 수박+파인애플 | 7,000원 | Very good |
+| 서현역 | 삼촌네 II | Very good | A코스 (통마늘똥집+계란말이+참이슬1병) | 19,000원 | Very good |
+| | | | G코스 (낙지떡볶이+계란찜+참이슬1병) | 20,000원 | Very good |
+| 오리역 | 갈비포차 본사직영점 | Good | 숯불 닭갈비 | 8,800원 | Good |
+| 오리역 | 아찌 | Very good | 생등심 돈까스 | 8,000원 | Very good |
+| 오리역 | 왕두꺼비부대찌개 | Good | 부대찌개 | 6,500원 | Good |
+| 오리역 | 유메노키친 | Excellent | 돈카츠 | 9,000원 | Excellent |
+| | | | 카츠동 | 9,500원 | Excellent |
+| | | | 혼모노카츠 | 12,500원 | Very good |
+| 정자역 | [정통춘천닭갈비](https://m.store.naver.com/restaurants/detail?id=19882096&query=정통춘천닭갈비) | Excellent | 정통닭갈비 | 11,000원 | Excellent |
+| 정자역 | 청담삼계탕 | Very good | 닭도리탕 | 35,000원 | Very good |
+| | | | 볶음밥 | 2,000원 | Very good |
+| 정자역 | 투썸플레이스 분당정자역점 | Very good | 딸기레어치즈케이크빙수 | 12,000원 | Very good |
+| 정자역 | 홍차이나 | Very good | 굴짬뽕 | 8,000원 | Very good |
