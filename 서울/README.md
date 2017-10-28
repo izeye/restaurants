@@ -63,6 +63,8 @@
 | 문정역 | 툇마루밥상 | Very good | 툇마루밥상 | 18,000원 | Very good |
 | 봉천역, 서울대입구역, 신림역 | 심가면옥 | Very good | 돼지물갈비 | 13,000원 | Very good |
 | 삼성역, 코엑스 | 폴리스 파르나스몰점 | Bad | BRICK OVEN PIZZAS/NEW YORK CLASSICS/BBQ CHICKEN 13" | 24,000원 | Bad |
+| 상왕십리역 | 치어스 왕십리뉴타운점 | Good | D Set - 간사이 명품 오뎅탕, 우삽겹숙주볶음 | 36,000원 | Good |
+| | | | 골뱅이 쫄, 소면 | 18,000원 | Good |
 | 서울숲공원, 서울숲역 | Wei | Good | Wei 자장면 | 7,000원 | Good |
 | | | | Wei 빨간짬뽕 | 8,000원 | Good |
 | | | | 중국식냉면 | 10,000원 | Good |
