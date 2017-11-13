@@ -2,6 +2,8 @@
 
 | Landmarks | Name | Rating | Menu name | Price | Menu rating |
 | --- | --- | --- | --- | --- | --- |
+| 가든파이브, 장지역 | 롯데리아 가든파이브점 | Good | 불고기버거 | 3,400원 | Good |
+| | | | 착한빅불세트 | 5,700원 | Good |
 | 건대입구역 | 본죽&비빔밥 cafe 건대점 | Good | 6가지야채죽 | 7,000원 | Good |
 | | | | 삼계죽 | 10,000원 | Good |
 | | | | 쇠고기버섯죽 | 8,000원 | Good |
