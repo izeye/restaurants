@@ -95,6 +95,7 @@
 | | | | 스보로 토끼밥 | 3,000원 | Very good |
 | | | | 코크 하이볼 | 5,200원 | Very good |
 | | | | 토끼정 잔치상 | 18,000원 | Very good |
+| 석촌역, 잠실역 | 크래버대게나라 잠실점 | Very good | 킹크랩 100g | 9,800원 | Very good |
 | 성수역 | 성수족발 | Very good | 족발 중 | 35,000원 | Very good |
 | 성수역 | 소문난감자탕 | Very good | 감자탕 소 | 23,000원 | Very good |
 | 성수역 | 쉐어드테이블 | Very good | 고르곤졸라 | 17,000원 | Very good |
