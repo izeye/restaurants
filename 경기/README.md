@@ -100,6 +100,7 @@
 | 오리역 | 유메노키친 | Excellent | 돈카츠 | 9,000원 | Excellent |
 | | | | 카츠동 | 9,500원 | Excellent |
 | | | | 혼모노카츠 | 12,500원 | Very good |
+| 정자역 | 멘야하치 | Very good | 미소라멘 | 8,000원 | Very good |
 | 정자역 | [정통춘천닭갈비](https://m.store.naver.com/restaurants/detail?id=19882096&query=정통춘천닭갈비) | Excellent | 정통닭갈비 | 11,000원 | Excellent |
 | 정자역 | 청담삼계탕 | Very good | 닭도리탕 | 35,000원 | Very good |
 | | | | 볶음밥 | 2,000원 | Very good |
