@@ -3,6 +3,7 @@
 | Landmarks | Name | Rating | Menu name | Price | Menu rating |
 | --- | --- | --- | --- | --- | --- |
 | 그린팩토리, 미금역 | 그레텔의부뚜막 | Excellent | 새우와 아스파라거스 아라비아따 | 13,500원 | Excellent |
+| | | | 스파게티니 푸타네스카 | 13,000원 | Excellent |
 | | | | 알리에 올리오 | 12,000원 | Excellent |
 | 그린팩토리, 미금역 | 단정한 요리 | Very good | 냉모밀 | 7,000원 | Very good |
 | | | | 눈꽃치즈 돈까스 | 9,000원 | Very good |
