@@ -45,8 +45,9 @@
 | | | | 치즈돈까스 | 11,000원 | Good |
 | | | | 호타루 돈까스 | 8,000원 | Good |
 | 뚝섬역, 서울숲, 서울숲역 | 버섯집 | Very good | 버섯 생불고기 전골 | 15,000원 | Very good |
-| 뚝섬역, 서울숲, 서울숲역 | 윤경양식당 | Very good | 돈까스 | 8,500원 | Very good |
+| | 윤경양식당 | Very good | 돈까스 | 8,500원 | Very good |
 | | | | 함박스테이크 | 11,500원 | Very good |
+| | 조마루감자탕 뚝섬점 | Very good | 뼈다귀전골 소 | 25,000원 | Very good |
 | 뚝섬역, 서울숲역, 성수역 | BHC치킨 성수역점 | Very good | 맛초킹 한마리 | 17,000원 | Very good |
 | | | | 스윗츄 | 17,000원 | Very good |
 | | | | 치레카 | 17,000원 | Very good |
