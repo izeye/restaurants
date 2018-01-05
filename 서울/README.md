@@ -117,6 +117,7 @@
 | 석촌역, 잠실역 | 크래버대게나라 잠실점 | Very good | 킹크랩 100g | 9,800원 | Very good |
 | 선릉역 | 뽕나무쟁이 | Very good | 뽕족발 대 | 35,000원 | Very good |
 | | | | 양념족발 대 | 35,000원 | Very good |
+| 선릉역 | 용호동낙지 강남점 | Very good | 낙곱새 | 12,000원 | Very good |
 | 성수역 | 성수족발 | Very good | 족발 중 | 35,000원 | Very good |
 | 성수역 | 소문난감자탕 | Very good | 감자탕 소 | 23,000원 | Very good |
 | 성수역 | 쉐어드테이블 | Very good | 고르곤졸라 | 17,000원 | Very good |
