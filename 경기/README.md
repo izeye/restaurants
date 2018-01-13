@@ -129,6 +129,8 @@
 | 정자역 | 투썸플레이스 분당정자역점 | Very good | 딸기레어치즈케이크빙수 | 12,000원 | Very good |
 | 정자역 | 홍차이나 | Very good | 굴짬뽕 | 8,000원 | Very good |
 | 정자역 | 홍익궁중전통육개장 정자점 | Very good | 궁중 전통 육개장 | 8,000원 | Very good |
+| 정자역 | 효 | Very good | 가꾸 하이볼 + (진저엘) | 8,000원 | Very good |
+| | | | 세이로무시 대 | 80,000원 | Very good |
 | 판교역 | 생활맥주 판교역점 | Very good | 골빔면 | 9,000원 | Very good |
 | | | | 앵그리 버드 | 16,000원 | Very good |
 | | | | 화이트 에일 | 6,500원 | Very good |
