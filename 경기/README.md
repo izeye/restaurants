@@ -2,7 +2,10 @@
 
 | Landmarks | Name | Rating | Menu name | Price | Menu rating |
 | --- | --- | --- | --- | --- | --- |
-| 그린팩토리, 미금역 | 그레텔의부뚜막 | Excellent | 새우와 아스파라거스 아라비아따 | 13,500원 | Excellent |
+| 그린팩토리, 미금역 | 그레텔의부뚜막 | Excellent | 갈릭 풍기 매콤 피자 | 15,000원 | Excellent |
+| | | | 고르곤졸라 갈릭 허니 피자 | 13,500원 | Excellent |
+| | | | 살라미 루꼴라 피자 | 14,500원 | Excellent |
+| | | | 새우와 아스파라거스 아라비아따 | 13,500원 | Excellent |
 | | | | 샹그리아 | 7,000원 | Excellent |
 | | | | 스파게티니 푸타네스카 | 13,000원 | Excellent |
 | | | | 알리에 올리오 | 12,000원 | Excellent |
